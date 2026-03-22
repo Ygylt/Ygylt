@@ -1,16 +1,16 @@
-# Hi, I'm Yagya 👋
+# Hi, I'm Yagya 
 
 I'm a student who builds things for fun — web apps, small tools, whatever seems interesting.
 
 ---
 
-## 🛠 Tech I use
+## Tech I use
 
 ![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python)
 
 ---
 
-## 🚀 Projects
+## Projects
 
 | Project | Description |
 |--------|-------------|
@@ -18,7 +18,7 @@ I'm a student who builds things for fun — web apps, small tools, whatever seem
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yagya30&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
@@ -26,5 +26,3 @@ I'm a student who builds things for fun — web apps, small tools, whatever seem
 </p>
 
 ---
-
-*Always learning. Always building.*
