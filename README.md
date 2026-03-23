@@ -1,28 +1,65 @@
-# Hi, I'm Yagya 
+# Hi, I'm Yagya
 
-I'm a student who builds things for fun — web apps, small tools, whatever seems interesting.
-
----
-
-## Tech I use
-
-![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+in+Progress;Building+Projects+and+Learning+Everyday;React+%7C+Node.js+%7C+MongoDB&center=true&width=500&height=45">
+</p>
 
 ---
 
-## Projects
+## About Me
 
-| Project | Description |
-|--------|-------------|
-| [footy-predictor](https://github.com/Yagya30/footy-predictor) | ⚽ Self-hosted football prediction mini-league — predict scorelines, earn points, compete with friends |
+Full-stack developer in progress  
+Currently building projects to improve my development skills  
+Interested in games, technology, and useful web applications  
+
+Currently focusing on:
+
+- Backend development
+- REST APIs
+- Database design
+- Building full-stack applications
+
+---
+
+## Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,git,github,vscode,html,css" />
+</p>
+
+---
+
+## Featured Projects
+
+| Project | Description | Link |
+|-------|-------------|------|
+| Game Backlog Tracker | Track games you want to play or have completed | https://github.com/Yagya30/game-backlog |
+| Footy Predictor | Football prediction mini-league system | https://github.com/Yagya30/footy-predictor |
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yagya30&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yagya30&layout=compact&theme=default&hide_border=true" height="150" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yagya30&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yagya30&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+## Activity
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Yagya30&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## Current Goals
+
+- Build more full-stack projects
+- Improve backend architecture skills
+- Learn authentication & security
+- Contribute to open source
 
 ---
